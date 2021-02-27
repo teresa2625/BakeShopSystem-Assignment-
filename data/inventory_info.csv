@@ -1,0 +1,185 @@
+store id,item id,name of item,quantity,date inventory added
+3,I-003,plain pancake,35,05/04/2020
+3,I-007,multigrain bread,41,6/6/2020
+3,I-011,chicken burger,25,3/5/2020
+3,I-014,toast skagen,13,09/29/2019
+3,I-016,lamb burger,16,12/09/2019
+3,I-023,vanilla cake,42,10/08/2020
+3,I-030,Yakisoba pan,18,11/27/2019
+3,I-036,rye bread,37,09/28/2019
+3,I-041,veggie burger,46,01/27/2020
+3,I-046,Cappuccino,26,12/22/2019
+3,I-047,chocolate chip pancake,40,10/17/2019
+3,I-052,fat  Sandwich,20,7/3/2020
+3,I-053,LEMON CRUMB MUFFINS,45,05/06/2020
+3,I-076,Nutella cake,37,12/15/2020
+3,I-093,Sugar,10,08/25/2020
+3,I-094,Milk,10,08/25/2020
+3,I-095,Flour,10,08/25/2020
+3,I-096,Strawberry,3,08/25/2020
+9,I-007,multigrain bread,41,6/6/2020
+9,I-009,fanta,47,10/4/2020
+9,I-009,fanta,47,10/4/2020
+9,I-014,toast skagen,13,09/29/2019
+9,I-017,charcoal bread,33,07/31/2020
+9,I-018,water,47,06/28/2019
+9,I-021,Gatsby  Sandwich,24,03/30/2020
+9,I-040,CRUMB APPLE MUFFINS,28,10/27/2019
+9,I-041,veggie burger,46,01/27/2020
+9,I-047,chocolate chip pancake,40,10/17/2019
+9,I-054,tiramisu cake,14,10/09/2019
+9,I-054,tiramisu cake,14,10/09/2019
+9,I-056,BANANA BLUEBERRY MUFFINS,29,10/14/2020
+9,I-059,spicy chicken burger,17,06/06/2020
+9,I-072,panbazo Sandwich,30,11/2/2020
+9,I-093,Sugar,10,08/25/2020
+9,I-094,Milk,10,08/25/2020
+9,I-095,Flour,10,08/25/2020
+9,I-096,Strawberry,3,08/25/2020
+8,I-001,white bread,35,2020/10/25
+8,I-002,cucumber  Sandwich,26,03/16/2020
+8,I-004,barros Luco Sandwich,35,05/20/2020
+8,I-006,broodje kroket  Sandwich,41,08/19/2020
+8,I-008,lemonade,46,09/04/2019
+8,I-011,chicken burger,25,3/5/2020
+8,I-014,toast skagen,13,09/29/2019
+8,I-019,fries burger,31,06/13/2020
+8,I-033,ice coffee,15,9/7/2020
+8,I-034,potato pancake,45,8/4/2020
+8,I-039,raspberry cake,28,08/08/2020
+8,I-056,BANANA BLUEBERRY MUFFINS,29,10/14/2020
+8,I-062,rainbow cake,14,11/18/2020
+8,I-076,Nutella cake,37,12/15/2020
+8,I-078,ice latte,41,08/02/2019
+8,I-092,chocolate cake,48,07/20/2020
+8,I-093,Sugar,10,08/25/2020
+8,I-094,Milk,10,08/25/2020
+8,I-095,Flour,10,08/25/2020
+8,I-098,BlueBerry,8,08/25/2020
+5,I-004,barros Luco Sandwich,35,05/20/2020
+5,I-005,texas brisket sandwich,35,07/18/2020
+5,I-009,fanta,47,10/4/2020
+5,I-010,coke,39,06/09/2020
+5,I-013,Expresso,35,07/25/2020
+5,I-016,lamb burger,16,12/09/2019
+5,I-025,Bocadillo De atun  Sandwich,18,07/19/2020
+5,I-029,banana pancake,29,12/11/2019
+5,I-034,potato pancake,45,8/4/2020
+5,I-049,Runza Sandwich,49,06/10/2020
+5,I-052,fat  Sandwich,20,7/3/2020
+5,I-066,BLUEBERRY MUFFINS,43,07/18/2019
+5,I-080,blueberry pancake,19,3/6/2020
+5,I-080,blueberry pancake,19,3/6/2020
+5,I-093,Sugar,10,08/25/2020
+5,I-094,Milk,10,08/25/2020
+5,I-095,Flour,10,08/25/2020
+5,I-097,Banana,24,08/25/2020
+7,I-003,plain pancake,36,2020/10/25
+7,I-006,broodje kroket  Sandwich,41,08/19/2020
+7,I-007,multigrain bread,41,6/6/2020
+7,I-013,Expresso,35,07/25/2020
+7,I-018,water,47,06/28/2019
+7,I-021,Gatsby  Sandwich,24,03/30/2020
+7,I-023,vanilla cake,42,10/08/2020
+7,I-033,ice coffee,15,9/7/2020
+7,I-034,potato pancake,45,8/4/2020
+7,I-037,dinner roll,17,06/21/2020
+7,I-039,raspberry cake,28,08/08/2020
+7,I-040,CRUMB APPLE MUFFINS,28,10/27/2019
+7,I-043,fish burger,13,07/19/2019
+7,I-054,tiramisu cake,14,10/09/2019
+7,I-086,double fish fillet burger,26,3/8/2020
+7,I-092,chocolate cake,48,07/20/2020
+7,I-093,Sugar,10,08/25/2020
+7,I-094,Milk,10,08/25/2020
+7,I-095,Flour,10,08/25/2020
+7,I-098,BlueBerry,8,08/25/2020
+1,I-001,white bread,34,04/25/2020
+1,I-002,cucumber  Sandwich,26,03/16/2020
+1,I-005,texas brisket sandwich,35,07/18/2020
+1,I-011,chicken burger,25,3/5/2020
+1,I-015,red valvet cake,47,09/02/2020
+1,I-016,lamb burger,16,12/09/2019
+1,I-025,Bocadillo De atun  Sandwich,18,07/19/2020
+1,I-037,dinner roll,17,06/21/2020
+1,I-039,raspberry cake,28,08/08/2020
+1,I-043,fish burger,13,07/19/2019
+1,I-047,chocolate chip pancake,40,10/17/2019
+1,I-066,BLUEBERRY MUFFINS,43,07/18/2019
+1,I-072,panbazo Sandwich,30,11/2/2020
+1,I-076,Nutella cake,37,12/15/2020
+1,I-093,Sugar,10,08/25/2020
+1,I-094,Milk,10,08/25/2020
+1,I-095,Flour,10,08/25/2020
+1,I-096,Strawberry,3,08/25/2020
+2,I-002,cucumber  Sandwich,27,2020/10/25
+2,I-003,plain pancake,35,05/04/2020
+2,I-008,lemonade,46,09/04/2019
+2,I-013,Expresso,35,07/25/2020
+2,I-017,charcoal bread,33,07/31/2020
+2,I-018,water,47,06/28/2019
+2,I-029,banana pancake,29,12/11/2019
+2,I-030,Yakisoba pan,18,11/27/2019
+2,I-040,CRUMB APPLE MUFFINS,28,10/27/2019
+2,I-046,Cappuccino,26,12/22/2019
+2,I-053,LEMON CRUMB MUFFINS,45,05/06/2020
+2,I-056,BANANA BLUEBERRY MUFFINS,29,10/14/2020
+2,I-062,rainbow cake,14,11/18/2020
+2,I-066,BLUEBERRY MUFFINS,43,07/18/2019
+2,I-072,panbazo Sandwich,30,11/2/2020
+2,I-086,double fish fillet burger,26,3/8/2020
+2,I-093,Sugar,10,08/25/2020
+2,I-094,Milk,10,08/25/2020
+2,I-095,Flour,10,08/25/2020
+2,I-097,Banana,24,08/25/2020
+4,I-004,barros Luco Sandwich,35,05/20/2020
+4,I-005,texas brisket sandwich,35,07/18/2020
+4,I-008,lemonade,46,09/04/2019
+4,I-010,coke,37,06/09/2020
+4,I-015,red valvet cake,47,09/02/2020
+4,I-015,red valvet cake,47,09/02/2020
+4,I-021,Gatsby  Sandwich,20,03/30/2020
+4,I-025,Bocadillo De atun  Sandwich,18,07/19/2020
+4,I-030,Yakisoba pan,18,11/27/2019
+4,I-033,ice coffee,15,9/7/2020
+4,I-036,rye bread,37,09/28/2019
+4,I-049,Runza Sandwich,49,06/10/2020
+4,I-078,ice latte,41,08/02/2019
+4,I-081,pepsi,23,08/26/2019
+4,I-081,pepsi,23,08/26/2019
+4,I-093,Sugar,10,08/25/2020
+4,I-094,Milk,10,08/25/2020
+4,I-095,Flour,10,08/25/2020
+4,I-098,BlueBerry,8,08/25/2020
+6,I-006,broodje kroket  Sandwich,41,08/19/2020
+6,I-017,charcoal bread,33,07/31/2020
+6,I-019,fries burger,31,06/13/2020
+6,I-019,fries burger,31,06/13/2020
+6,I-029,banana pancake,29,12/11/2019
+6,I-036,rye bread,37,09/28/2019
+6,I-037,dinner roll,17,06/21/2020
+6,I-043,fish burger,13,07/19/2019
+6,I-046,Cappuccino,26,12/22/2019
+6,I-052,fat  Sandwich,20,7/3/2020
+6,I-053,LEMON CRUMB MUFFINS,45,05/06/2020
+6,I-059,spicy chicken burger,17,06/06/2020
+6,I-078,ice latte,41,08/02/2019
+6,I-081,pepsi,23,08/26/2019
+6,I-092,chocolate cake,48,07/20/2020
+6,I-093,Sugar,10,08/25/2020
+6,I-094,Milk,10,08/25/2020
+6,I-095,Flour,10,08/25/2020
+6,I-096,Strawberry,3,08/25/2020
+10,I-001,white bread,34,04/25/2020
+10,I-010,coke,39,06/09/2020
+10,I-023,vanilla cake,42,10/08/2020
+10,I-041,veggie burger,46,01/27/2020
+10,I-049,Runza Sandwich,49,06/10/2020
+10,I-059,spicy chicken burger,17,06/06/2020
+10,I-062,rainbow cake,14,11/18/2020
+10,I-080,blueberry pancake,19,3/6/2020
+10,I-086,double fish fillet burger,26,3/8/2020
+10,I-093,Sugar,10,08/25/2020
+10,I-094,Milk,10,08/25/2020
+10,I-095,Flour,10,08/25/2020
+10,I-097,Banana,24,08/25/2020
